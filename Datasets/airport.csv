@@ -1,0 +1,338 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,iso_region,municipality,scheduled_service,gps_code,iata_code,local_code,year_built,year_tier,Closed,home_link,wikipedia_link,keywords,score
+26555,VIDP,large_airport,Indira Gandhi International Airport,28.5665,77.103104,777,IN-DL,New Delhi,1,VIDP,DEL,,1930,1950,n,http://www.newdelhiairport.in/,http://en.wikipedia.org/wiki/Indira_Gandhi_International_Airport,Palam Air Force Station,51475
+26434,VABB,large_airport,Chhatrapati Shivaji International Airport,19.08869934,72.86789703,39,IN-MM,Mumbai,1,VABB,BOM,,1942,1950,n,http://www.csia.in/,http://en.wikipedia.org/wiki/Chhatrapati_Shivaji_International_Airport,"Bombay, Sahar International Airport",1014475
+26618,VOMM,large_airport,Chennai International Airport,12.99000549,80.16929626,52,IN-TN,Chennai,1,VOMM,MAA,,1910,1950,n,,http://en.wikipedia.org/wiki/Chennai_International_Airport,,51150
+35145,VOBL,large_airport,Kempegowda International Airport,13.1979,77.706299,3000,IN-KA,Bangalore,1,VOBL,BLR,,2008,2010,n,http://www.bengaluruairport.com/home/home.jspx,https://en.wikipedia.org/wiki/Kempegowda_International_Airport,,51200
+26444,VAGO,large_airport,Goa International Airport,15.38080025,73.83139801,150,IN-GA,Vasco da Gama,1,VOGO,GOI,,1955,1955,n,,http://en.wikipedia.org/wiki/Dabolim_Airport,"Goa Airport, Dabolim Navy Airbase, ________隷怄____鈩 __礯_廮_宊____蝊_____",875
+26609,VOCI,large_airport,Cochin International Airport,10.152,76.401901,30,IN-KL,Kochi,1,VOCI,COK,,1999,2000,n,http://www.cochin-airport.com/,http://en.wikipedia.org/wiki/Cochin_International_Airport,Cochin,1000
+26496,VECC,large_airport,Netaji Subhash Chandra Bose International Airport,22.65469933,88.44670105,16,IN-WB,Kolkata,1,VECC,CCU,,1929,1950,n,,http://en.wikipedia.org/wiki/Netaji_Subhash_Chandra_Bose_International_Airport,"Calcutta, Kolkatta, Dum Dum Air Force Station",1200
+35141,VOHS,large_airport,Rajiv Gandhi International Airport,17.23131752,78.42985535,2024,IN-TG,Hyderabad,1,VOHS,HYD,,2008,2010,n,http://www.shamshabadairport.com/,http://en.wikipedia.org/wiki/Rajiv_Gandhi_International_Airport,"Shamshabad, Hyderabad",1200
+26629,VOTV,large_airport,Trivandrum International Airport,8.48211956,76.92009735,15,IN-KL,Thiruvananthapuram,1,VOTV,TRV,,1932,1950,n,,http://en.wikipedia.org/wiki/Trivandrum_International_Airport,"Thiruvananthapuram International Airport, Trivandrum Air Force Station",1050
+26563,VIJP,medium_airport,Jaipur International Airport,26.82419968,75.81220245,1263,IN-RJ,Jaipur,1,VIJP,JAI,,n/a,#N/A,n,http://aai.aero/allAirports/jaipur_generalinfo.jsp,http://en.wikipedia.org/wiki/Jaipur_Airport,,1050
+26603,VOBG,medium_airport,HAL Airport,12.94999981,77.66819763,2912,IN-KA,Bangalore,1,VOBG,,,1940,1950,n,,http://en.wikipedia.org/wiki/HAL_Bangalore_International_Airport,"Bengaluru, Hindustan Airport, HAL Airport, Hindustan Aeronautics",1050
+26431,VAAH,medium_airport,Sardar Vallabhbhai Patel International Airport,23.07719994,72.63469696,189,IN-GJ,Ahmedabad,1,VAAH,AMD,,1937,1950,n,,http://en.wikipedia.org/wiki/Sardar_Vallabhbhai_Patel_International_Airport,Gandhinagar Air Force Station,1050
+26455,VAPO,medium_airport,Pune International Airport,18.58209991,73.91970062,1942,IN-MM,Pune,1,VAPO,PNQ,,1939,1950,n,,http://en.wikipedia.org/wiki/Pune_Airport,"Lohegaon Airport, Lohegaon Air Force Station",800
+26540,VIAR,large_airport,Sri Guru Ram Dass Jee International Airport,31.70960045,74.79730225,756,IN-PB,Amritsar,1,VIAR,ATQ,,2006,2010,n,http://www.aai.aero/allAirports/amritsar_generalinfo.jsp,http://en.wikipedia.org/wiki/Sri_Guru_Ram_Dass_Jee_International_Airport,Amritsar Air Force Station,1050
+26617,VOML,medium_airport,Mangalore International Airport,12.9612999,74.89009857,337,IN-KA,Mangalore,1,VOML,IXE,,1951,1955,n,,http://en.wikipedia.org/wiki/Mangalore_International_Airport,Bajpe Airport,1025
+26438,VABO,medium_airport,Vadodara Airport,22.33620071,73.2263031,129,IN-GJ,Vadodara,1,VABO,BDQ,,n/a,#N/A,n,http://aai.aero/allAirports/vadodara_generalinfo.jsp,http://en.wikipedia.org/wiki/Vadodara_Airport,Civil Airport Harni,1000
+26615,VOHY,medium_airport,Begumpet Airport,17.4531002,78.46759796,1742,IN-TG,Hyderabad,0,VOHY,BPM,,1937,1950,n,,http://en.wikipedia.org/wiki/Begumpet_Airport,"Begumpet Air Force Station, HYD, Hyderabad Airport",475
+26501,VEGT,medium_airport,Lokpriya Gopinath Bordoloi International Airport,26.10610008,91.58589935,162,IN-AS,Guwahati,1,VEGT,GAU,,1958,1960,n,http://aai.aero/guwahati/index.jsp,http://en.wikipedia.org/wiki/Lokpriya_Gopinath_Bordoloi_International_Airport,"Borjhar Airport, Mountain Shadow Air Force Station",925
+26562,VIJO,medium_airport,Jodhpur Airport,26.25110054,73.04889679,717,IN-RJ,Jodhpur,1,VIJO,JDH,,1920,1950,n,,http://en.wikipedia.org/wiki/Jodhpur_Airport,Jodhpur Air Force Station,875
+26545,VIBN,medium_airport,Lal Bahadur Shastri Airport,25.45240021,82.85929871,266,IN-UP,Varanasi,1,VIBN,VNS,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Varanasi_Airport,"Babatpur Airport, Varanasi Airport",1050
+26446,VAID,medium_airport,Devi Ahilyabai Holkar Airport,22.72179985,75.80110168,1850,IN-MP,Indore,1,VAID,IDR,,1935,1950,n,http://aai.aero/allAirports/indore_technicalinfo.jsp,http://en.wikipedia.org/wiki/Devi_Ahilyabai_Holkar_International_Airport,,975
+26610,VOCL,large_airport,Calicut International Airport,11.13679981,75.95529938,342,IN-KL,Calicut,1,VOCL,CCJ,,1988,1990,n,,http://en.wikipedia.org/wiki/Calicut_International_Airport,,950
+26494,VEBS,medium_airport,Biju Patnaik Airport,20.24440002,85.81780243,138,IN-OR,Bhubaneswar,1,VEBS,BBI,,1962,1965,n,http://aai.aero/allAirports/bhubaneshwar_generalinfo.jsp,http://en.wikipedia.org/wiki/Biju_Patnaik_Airport,,925
+26607,VOCB,medium_airport,Coimbatore International Airport,11.02999973,77.04340363,1324,IN-TN,Coimbatore,1,VOCB,CJB,,1940,1950,n,http://www.airportsindia.org.in/allAirports/coimbatore_generalinfo.jsp,http://en.wikipedia.org/wiki/Coimbatore_Airport,,925
+26550,VICG,medium_airport,Chandigarh Airport,30.67350006,76.78849792,1012,IN-CH,Chandigarh,1,VICG,IXC,,1970,1970,n,,http://en.wikipedia.org/wiki/Chandigarh_Airport,Chandigarh Air Force Station,800
+26523,VEVZ,small_airport,Visakhapatnam Airport,17.72120094,83.22450256,15,IN-AP,Visakhapatnam,1,VOVZ,VTZ,,1981,1985,n,http://www.airportsindia.org.in/allAirports/vishakapatnam.jsp,http://en.wikipedia.org/wiki/Visakhapatnam_Airport,"VEVZ, Visakhapatnam",450
+26461,VASU,medium_airport,Surat Airport,21.1140995,72.7417984,16,IN-GJ,,1,VASU,STV,,n/a,#N/A,n,,,,250
+30171,VAJJ,small_airport,Juhu Aerodrome,19.09810066,72.834198,13,IN-MM,Mumbai,0,VAJJ,,,1928,1950,y,http://www.airportsindia.org.in/allAirports/juhu.jsp,http://en.wikipedia.org/wiki/Juhu_Aerodrome,Bombay,50
+26570,VILK,medium_airport,Chaudhary Charan Singh International Airport,26.76059914,80.88929749,410,IN-UP,Lucknow,1,VILK,LKO,,1986,1990,n,http://aai.aero/allAirports/lucknow_generalinfo.jsp,http://en.wikipedia.org/wiki/Amausi_Airport,Amausi International Airport,1050
+26517,VEPT,medium_airport,Jay Prakash Narayan International Airport,25.59129906,85.08799744,170,IN-BR,Patna,1,VEPT,PAT,,1973,1975,n,http://airportsindia.org.in/allAirports/patna_techinfo.jsp,http://en.wikipedia.org/wiki/Lok_Nayak_Jayaprakash_Airport,,1050
+26616,VOMD,medium_airport,Madurai Airport,9.83450985,78.09339905,459,IN-TN,Madurai,1,VOMD,IXM,,1942,1950,n,http://www.airportsindia.org.in/allAirports/madurai_airpo_gi.jsp,http://en.wikipedia.org/wiki/Madurai_Airport,Madurai Air Force Station,800
+26491,VEBD,medium_airport,Bagdogra Airport,26.68120003,88.32859802,412,IN-WB,Siliguri,1,VEBD,IXB,,n/a,#N/A,n,http://aai.aero/allAirports/bagdogra_generalinfo.jsp,http://en.wikipedia.org/wiki/Bagdogra_Airport,Bagdogra Air Force Station,800
+26578,VISR,medium_airport,Sheikh ul Alam Airport,33.98709869,74.77420044,5429,IN-JK,Srinagar,1,VISR,SXR,,1979,1980,n,,http://en.wikipedia.org/wiki/Srinagar_Airport,Srinagar Air Force Station,800
+26462,VAUD,medium_airport,Maharana Pratap Airport,24.61770058,73.89610291,1684,IN-RJ,Udaipur,1,VAUD,UDR,,n/a,#N/A,n,http://www.airportsindia.org.in/allAirports/udaipur_airpo_gi.jsp,http://en.wikipedia.org/wiki/Udaipur_Airport,Dabok Airport,1025
+26433,VAAU,medium_airport,Aurangabad Airport,19.86269951,75.39810181,1911,IN-MM,Aurangabad,1,VAAU,IXU,,1998,2000,n,http://aai.aero/allAirports/aurangabad_generalinfo.jsp,http://en.wikipedia.org/wiki/Aurangabad_Airport,Chikkalthana Airport,925
+26436,VABJ,medium_airport,Bhuj Airport,23.28779984,69.67019653,268,IN-GJ,Bhuj,1,VABJ,BHJ,,n/a,#N/A,n,http://aai.aero/allAirports/bhuj_generalinfo.jsp,http://en.wikipedia.org/wiki/Bhuj_Airport,"Bhuj Rudra Mata Air Force Station, Shyamji Krishna Verma, Bhuj Airport",825
+26606,VOBZ,medium_airport,Vijayawada Airport,16.53039932,80.79679871,82,IN-AP,,1,VOBZ,VGA,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Vijayawada_Airport,,800
+26459,VARP,small_airport,Raipur Airport,21.18040085,81.73880005,1041,IN-CT,Raipur,1,VARP,RPR,,n/a,#N/A,n,http://aai.aero/allAirports/raipur_generalinfo.jsp,http://en.wikipedia.org/wiki/Raipur_Airport,Mana Airport,800
+26622,VOPN,medium_airport,Sri Sathya Sai Airport,14.14929962,77.79109955,1558,IN-AP,Puttaparthi,0,VOPN,PUT,,1990,1990,n,,http://en.wikipedia.org/wiki/Sri_Sathya_Sai_Airport,,250
+3319,VE89,small_airport,Darbhanga Airport,26.19280052,85.91690063,156,IN-BR,,0,VE89,,VE89,n/a,#N/A,n,,,,50
+3299,VA2C,small_airport,Gondia Airport,21.52619934,80.29039764,990,IN-MM,,0,VAGD,,VA2C,1940,1950,n,,,,50
+26453,VANP,medium_airport,Dr. Babasaheb Ambedkar International Airport,21.09219933,79.04720306,1033,IN-MM,Naqpur,1,VANP,NAG,,1949,1950,n,http://aai.aero/allAirports/nagpur1_generalinfo.jsp,http://en.wikipedia.org/wiki/Dr._Babasaheb_Ambedkar_International_Airport,"Sonegaon Airport, Sonegaon Air Force Station",1050
+26458,VARK,medium_airport,Rajkot Airport,22.30920029,70.77950287,441,IN-GJ,Rajkot,1,VARK,RAJ,,n/a,#N/A,n,http://www.airportsindia.org.in/allAirports/rajkot.jsp,http://en.wikipedia.org/wiki/Rajkot_Airport,,1025
+26439,VABP,medium_airport,Raja Bhoj International Airport,23.28750038,77.33740234,1711,IN-MP,Bhopal,1,VABP,BHO,,2011,2015,n,http://aai.aero/allAirports/bhopal_generalinfo.jsp,http://en.wikipedia.org/wiki/Bhopal_Airport,,925
+26504,VEIM,medium_airport,Imphal Airport,24.76000023,93.896698,2540,IN-MN,Imphal,1,VEIM,IMF,,1945,1950,n,http://www.aai.aero/allAirports/imphal_gen.jsp,http://en.wikipedia.org/wiki/Imphal_Airport,,925
+26519,VERC,medium_airport,Birsa Munda Airport,23.31430054,85.32170105,2148,IN-JH,Ranchi,1,VERC,IXR,,n/a,#N/A,n,http://airportsindia.org.in/allAirports/ranchi.jsp,http://en.wikipedia.org/wiki/Birsa_Munda_Airport,,925
+26448,VAJM,medium_airport,Jamnagar Airport,22.46549988,70.01260376,69,IN-GJ,Jamnagar,1,VAJM,JGA,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Jamnagar_Airport,Jamnagar Air Force Station,825
+26489,VEAT,medium_airport,Agartala Airport,23.88699913,91.24040222,46,IN-TR,Agartala,1,VEAT,IXA,,1942,1950,n,,http://en.wikipedia.org/wiki/Agartala_Airport,"Singerbhil Airport, Agartala Air Force Station",800
+26507,VEJT,medium_airport,Jorhat Airport,26.73150063,94.17549896,311,IN-AS,Jorhat,1,VEJT,JRH,,1951,1955,n,http://aai.aero/allAirports/jorhat_airpo_gi.jsp,http://en.wikipedia.org/wiki/Jorhat_Airport,"Rowriah Airport, Jorhat Air Force Station",800
+26569,VILH,medium_airport,Leh Kushok Bakula Rimpochee Airport,34.13589859,77.54650116,10682,IN-JK,Leh,1,VILH,IXL,,n/a,#N/A,n,http://airportsindia.org.in/allAirports/leh_generalinfo.jsp,http://en.wikipedia.org/wiki/Leh_Kushok_Bakula_Rimpochee_Airport,Leh Air Force Station,800
+26620,VOPB,medium_airport,Vir Savarkar International Airport,11.64120007,92.72969818,14,IN-AN,Port Blair,1,VOPB,IXZ,,2005,2005,n,,http://en.wikipedia.org/wiki/Vir_Savarkar_Airport,"Port Blair Airport, Port Blair Air Force Station",800
+26623,VORY,medium_airport,Rajahmundry Airport,17.11039925,81.81819916,151,IN-AP,Rajahmundry,1,VORY,RJA,,n/a,#N/A,n,http://aai.aero/allAirports/rajahmundry_generalinfo.jsp,http://en.wikipedia.org/wiki/Rajahmundry_Airport,,800
+26627,VOTP,small_airport,Tirupati Airport,13.63249969,79.54329681,350,IN-AP,Tirupati,1,VOTP,TIR,,1976,1980,n,http://aai.aero/allAirports/tirupati_generalinfo.jsp,http://en.wikipedia.org/wiki/Tirupati_Airport,,450
+26450,VAKJ,medium_airport,Khajuraho Airport,24.81719971,79.91860199,728,IN-MP,Khajuraho,1,VAKJ,HJR,,1978,1980,n,http://www.aai.aero/allAirports/khajuraho_generalinfo.jsp,http://en.wikipedia.org/wiki/Khajuraho_Airport,,325
+26546,VIBR,medium_airport,Kullu Manali Airport,31.87669945,77.15440369,3573,IN-HP,,0,VIBR,KUU,,1950,1950,n,,,,250
+26539,VIAM,medium_airport,Ambala Air Force Station,30.36809921,76.8167038,909,IN-HR,,0,VIAM,,VI18,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Halwara_Air_Force_Base,,250
+26538,VIAL,medium_airport,Allahabad Airport,25.44009972,81.73390198,322,IN-UP,Allahabad,0,VIAL,IXD,,1919,1950,n,http://aai.aero/allAirports/allahabad.jsp,http://en.wikipedia.org/wiki/Allahabad_Airport,"Allahabad Bamrauli Airport, Bamrauli Air Force Station",250
+3340,VO52,small_airport,Harihar Airport,14.53509998,75.78739929,1750,IN-KA,,0,VO52,,VO52,n/a,#N/A,n,,,,50
+26499,VEDX,small_airport,Kalaikunda Air Force Station,22.33950043,87.21450043,200,IN-WB,,0,VEDX,,,n/a,#N/A,n,,,VE60,50
+46518,IN-0024,small_airport,Baramati Airport,18.22694444,74.59083333,1978,IN-MM,Pune,0,,,,1996,2000,n,,,,0
+26628,VOTR,medium_airport,Tiruchirapally Civil Airport Airport,10.76539993,78.70970154,288,IN-TN,Tiruchirappally,1,VOTR,TRZ,,1941,1950,n,,http://en.wikipedia.org/wiki/Tiruchirapalli_Airport,Tiruchirappalli,1000
+26565,VIJU,medium_airport,Jammu Airport,32.68909836,74.83740234,1029,IN-JK,Jammu,1,VIJU,IXJ,,2005,2005,n,,http://en.wikipedia.org/wiki/Jammu_Airport,Satwari Airport,975
+26440,VABV,medium_airport,Bhavnagar Airport,21.75219917,72.18520355,44,IN-GJ,Bhavnagar,1,VABV,BHU,,n/a,#N/A,n,http://aai.aero/allAirports/bhavnagar.jsp,http://en.wikipedia.org/wiki/Bhavnagar_Airport,,825
+26502,VEGY,medium_airport,Gaya Airport,24.74430084,84.95120239,380,IN-BR,,1,VEGY,GAY,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Gaya_Airport,,800
+26554,VIDN,medium_airport,Dehradun Airport,30.18969917,78.18029785,1831,IN-UP,Dehradun,1,VIDN,DED,,1974,1975,n,http://aai.aero/allAirports/dehradun_generalinfo.jsp,http://en.wikipedia.org/wiki/Jolly_Grant_Airport,,800
+26454,VANR,closed,Gandhinagar Airport,19.96369934,73.80760193,1959,IN-MM,Nashik,1,VANR,,,n/a,#N/A,y,,http://en.wikipedia.org/wiki/Gandhinagar_Airport,"ISK, Nasik Road Airport",800
+26456,VAPR,medium_airport,Porbandar Airport,21.64870071,69.65720367,23,IN-GJ,Porbandar,1,VAPR,PBD,,n/a,#N/A,n,http://www.airportsindia.org.in/allAirports/porbander.jsp,http://en.wikipedia.org/wiki/Porbandar_Airport,,800
+26445,VAHB,medium_airport,Hubli Airport,15.36170006,75.0848999,2171,IN-KA,Hubli,1,VOHB,HBX,,n/a,#N/A,n,http://www.airportsindia.org.in/allAirports/hubli_generalinfo.jsp,http://en.wikipedia.org/wiki/Hubli_Airport,VAHB,450
+26512,VEMN,medium_airport,Dibrugarh Airport,27.48390007,95.01689911,362,IN-AS,Dibrugarh,1,VEMN,DIB,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Dibrugarh_Airport,Mohanbari Air Force Station,325
+26557,VIGG,medium_airport,Kangra Airport,32.1651001,76.26339722,2525,IN-HP,,0,VIGG,DHM,,n/a,#N/A,n,,,,250
+26576,VISM,small_airport,Shimla Airport,31.0818,77.068001,5072,IN-HP,,0,VISM,SLV,,n/a,#N/A,n,,https://en.wikipedia.org/wiki/Shimla_Airport,,250
+26506,VEJS,medium_airport,Jamshedpur Airport,22.8132,86.16880035,475,IN-JH,,0,VEJS,IXW,,1940,1950,n,,,,250
+26605,VOBR,medium_airport,Bidar Air Force Station,17.90810013,77.48709869,2178,IN-KA,,0,VOBR,,,n/a,#N/A,n,,,,250
+26602,VOAT,medium_airport,Agatti Airport,10.82369995,72.1760025,14,IN-LD,,0,VOAT,AGX,,1987,1990,n,,http://en.wikipedia.org/wiki/Agatti_Aerodrome,,250
+26520,VERK,medium_airport,Rourkela Airport,22.25670052,84.81459808,659,IN-OR,,0,VERK,RRK,,1950,1950,n,,,,250
+26547,VIBT,medium_airport,Bhatinda Air Force Station,30.27009964,74.75579834,662,IN-PB,,0,VIBT,BUP,,n/a,#N/A,n,,,,250
+26571,VIPK,medium_airport,Pathankot Air Force Station,32.23379898,75.63459778,1017,IN-PB,,0,VIPK,IXP,,n/a,#N/A,n,,,,250
+26621,VOPC,medium_airport,Pondicherry Airport,11.96870041,79.81009674,118,IN-TN,,0,VOPC,PNY,,1989,1990,n,,,,250
+26537,VIAG,medium_airport,Agra Airport,27.15579987,77.96089935,551,IN-UP,,0,VIAG,AGR,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Agra_Airport,"Kheria Airport, Agra Air Force Station",250
+26604,VOBI,medium_airport,Bellary Airport,15.16279984,76.88279724,30,IN-KA,Bellary,0,VOBI,BEP,,1932,1950,y,,http://en.wikipedia.org/wiki/Bellary_Airport,"Jindal Vijayanagar, Vijaynagar",250
+26613,VODG,medium_airport,Dundigul Air Force Academy,17.62719917,78.40339661,2013,IN-TG,Hyderabad,0,VODG,,,1971,1975,n,,http://en.wikipedia.org/wiki/Dundigul_Air_Force_Academy,,250
+26567,VIKO,medium_airport,Kota Airport,25.16020012,75.84559631,896,IN-RJ,Kota,0,VIKO,KTU,,1951,1955,n,,http://en.wikipedia.org/wiki/Kota_Airport,,250
+26608,VOCC,small_airport,Willingdon Island Air Base,9.947389603,76.27310181,8,IN-KL,Kochi,0,VOCC,,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Willingdon_Island,"RAF Willingdon Island, Gochin, COK",125
+26619,VONS,small_airport,Nagarjuna Sagar Airport,16.54269981,79.3187027,658,IN-AP,,0,VONS,,,n/a,#N/A,y,,,,50
+26493,VEBK,small_airport,Bokaro Airport,23.64349937,86.14890289,715,IN-BR,,0,VEBK,,,n/a,#N/A,n,,,,50
+3286,VA1E,closed,Bhilai Airport,21.2942009,81.37950134,1014,IN-CT,,0,VA1E,,VA1E,n/a,#N/A,y,,,,50
+3291,VA1K,small_airport,Raedhanpur Airport,23.22229958,68.89129639,135,IN-GJ,,0,VA1K,,VA1K,n/a,#N/A,n,,,Naliya Air Force Station,50
+26548,VIBW,small_airport,Bhiwani Airport,28.83699989,76.17910004,720,IN-HR,,0,VIBW,,,n/a,#N/A,n,,,,50
+3310,VE36,small_airport,Nuagaon Airport,20.51169968,83.44809723,656,IN-OR,,0,VE36,,VE36,n/a,#N/A,n,,,,50
+26572,VIPL,small_airport,Patiala Airport,30.31480026,76.36450195,820,IN-PB,,0,VIPL,,,n/a,#N/A,n,,,,50
+26580,VIUT,small_airport,Uttarlai Airport,25.81299973,71.4822998,500,IN-RJ,,0,VIUT,,,n/a,#N/A,n,,,Uttarlai Air Force Station,50
+26614,VOHK,small_airport,Hakimpet Airport,17.55349922,78.52490234,2020,IN-TG,,0,VOHK,,,n/a,#N/A,n,,,"Hakimpeth Air Force Station, Hakimpet Air Force Station, VO28",50
+26574,VIRB,small_airport,Fursatganj Airport,26.24850082,81.38050079,360,IN-UP,,0,VIRB,,,n/a,#N/A,n,,,,50
+26551,VICX,small_airport,Chakeri Air Force Station,26.40430069,80.41010284,405,IN-UP,Kanpur,0,VICX,,,n/a,#N/A,n,,,,50
+3301,VAOZ,small_airport,Ozar Airport,20.11910057,73.91290283,1900,IN-MM,Nasik,0,VAOZ,ISK,,1964,1965,n,,https://en.wikipedia.org/wiki/Ozar_Airport,VA35,50
+3288,VA1G,medium_airport,"Rewa Airport, Chorhata, REWA",24.503401,81.220299,1000,IN-MP,Rewa,1,VA1G,REW,VA1G,n/a,#N/A,n,,,,50
+26625,VOSX,small_airport,Coimbatore Air Force Station,11.01360035,77.15969849,1250,IN-TN,Sulur,0,VOSX,,,n/a,#N/A,n,,,,50
+26631,VOYK,small_airport,Yelahanka Air Force Station,13.13549995,77.60600281,3045,IN-KA,Yelahanka,0,VOYK,,,1942,1950,n,,http://en.wikipedia.org/wiki/Yelahanka_Air_Force_Station,,50
+312234,IN-0090,small_airport,Deoghar Airstrip,24.44666667,86.70694444,361,IN-JH,,0,,,,n/a,#N/A,n,,,,0
+299921,IN-0068,closed,kanha,22.0926386,80.59553146,,IN-MP,,0,,,,n/a,#N/A,y,,,,0
+301051,IN-0074,small_airport,Barbil Aerodrome (JSPL),22.04861389,85.37419444,,IN-OR,,0,,,,n/a,#N/A,n,,,,0
+309893,VEKJ,small_airport,KEONJHAR AIRPORT,21.69666667,85.58166667,,IN-OR,,1,VEKJ,,,n/a,#N/A,n,,,,0
+44908,IN-0013,small_airport,Nadirgul Airport,17.30606651,78.56048584,1811,IN-TG,,0,,,,n/a,#N/A,n,http://www.aai.aero/allAirports/nadirgul.jsp,http://en.wikipedia.org/wiki/Nadirgul_Airport,"NDGL, Nadirgul,",0
+309591,IN-0087,heliport,GAUCHER,30.28444444,79.16166667,,IN-UL,,0,,,,n/a,#N/A,n,,,,0
+46481,IN-0023,small_airport,Amreli Airstrip,21.61985086,71.22333527,,IN-GJ,Amreli,0,,,,n/a,#N/A,y,,,,0
+301145,IN-0077,closed,Bhagalpur Airport,25.249359,87.009779,,IN-BR,Bhagalpur,0,,,,n/a,#N/A,y,,,,0
+44629,IN-VOHP,small_airport,"Kopal,Hospet Airport",15.358334,76.51667,1698,IN-KA,Hospete,0,,,VOHP,n/a,#N/A,n,,,"koppal,hospete,airport",0
+44630,VOKP,small_airport,Koppal Aerodrome,15.35910034,76.21929932,1700,IN-KA,Koppal,0,VOKP,,,n/a,#N/A,n,,,,0
+46581,IN-0053,small_airport,Shibpur Airstrip,13.2363163,93.04973066,,IN-AN,Madhupur,0,,,,n/a,#N/A,n,,,,0
+26437,VABM,medium_airport,Belgaum Airport,15.85929966,74.61830139,2487,IN-KA,Belgaum,1,VOBM,IXG,,1942,1950,n,,http://en.wikipedia.org/wiki/Belgaum_Airport,VABM,825
+26521,VETZ,medium_airport,Tezpur Airport,26.70910072,92.78469849,240,IN-AS,,1,VETZ,TEZ,,1942,1950,n,,http://en.wikipedia.org/wiki/Tezpur_Airport,"Salonibari Airport, Tezpur Air Force Station",800
+26451,VAKP,medium_airport,Kolhapur Airport,16.66469955,74.28939819,1996,IN-MM,,1,VAKP,KLH,,1987,1990,n,,http://en.wikipedia.org/wiki/Kolhapur_Airport,,800
+26447,VAJB,medium_airport,Jabalpur Airport,23.17779922,80.05200195,1624,IN-MP,,1,VAJB,JLR,,1930,1950,n,,http://en.wikipedia.org/wiki/Jabalpur_Airport,,800
+26579,VIST,small_airport,Satna Airport,24.5623,80.854897,1060,IN-MP,,1,VIST,TNI,,n/a,#N/A,n,,,,800
+26566,VIKA,medium_airport,Kanpur Airport,26.44140053,80.36489868,411,IN-UP,,1,VIKA,KNU,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Kanpur_Airport,,800
+26490,VEAZ,heliport,Tuirial Airfield,23.7432,92.8024,1093,IN-MZ,Aizawl,0,VEAZ,,,n/a,#N/A,n,,,,800
+26513,VEMR,medium_airport,Dimapur Airport,25.88389969,93.77110291,487,IN-NL,Dimapur,1,VEMR,DMU,,1942,1950,n,,http://en.wikipedia.org/wiki/Dimapur_Airport,,800
+26558,VIGR,medium_airport,Gwalior Airport,26.29330063,78.22779846,617,IN-MP,Gwalior,1,VIGR,GWL,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Gwalior_Airport,Maharajpur Air Force Station,800
+26511,VELR,medium_airport,North Lakhimpur Airport,27.2954998,94.09760284,330,IN-AS,Lilabari,1,VELR,IXI,,2003,2005,n,,http://en.wikipedia.org/wiki/Lilabari_Airport,,800
+26492,VEBI,medium_airport,Shillong Airport,25.70359993,91.97869873,2910,IN-ML,Shillong,1,VEBI,SHL,,1974,1975,n,,http://en.wikipedia.org/wiki/Shillong_Airport,"Barapani Airport, Barapani Air Force Station, Umroi Airport",800
+26509,VEKU,medium_airport,Silchar Airport,24.91290092,92.97869873,352,IN-AS,Silchar,1,VEKU,IXS,,1944,1950,n,http://aai.aero/allAirports/silchar_general.jsp,http://en.wikipedia.org/wiki/Silchar_Airport,Kumbhigram Air Force Station,800
+3296,VA1P,small_airport,Diu Airport,20.71310043,70.9210968,31,IN-GJ,Diu,1,VA1P,DIU,VA1P,1954,1955,n,http://aai.aero/allAirports/diu_airpo_gi.jsp,http://en.wikipedia.org/wiki/Diu_Airport,,450
+26612,VOCX,medium_airport,Car Nicobar Air Force Station,9.152509689,92.81960297,5,IN-AN,,0,VOCX,CBD,,1942,1950,n,,http://en.wikipedia.org/wiki/Car_Nicobar_Air_Force_Base,Carnicobar,250
+26611,VOCP,medium_airport,Cuddapah Airport,14.51000023,78.77279663,430,IN-AP,,0,VOCP,CDP,,1953,1955,n,,http://en.wikipedia.org/wiki/Cuddapah_Airport,,250
+26488,VEAN,medium_airport,Along Airport,28.1753006,94.80200195,900,IN-AR,,0,VEAN,IXV,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Along_Airport,,250
+26524,VEZO,medium_airport,Zero Airport,27.5883007,93.82810211,5403,IN-AR,,0,VEZO,ZER,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Zero_Airport,,250
+26498,VEDB,closed,Dhanbad Airport,23.83399963,86.4253006,847,IN-BR,,0,VEDB,DBD,,n/a,#N/A,y,,,,250
+26514,VEMZ,closed,Muzaffarpur Airport,26.11910057,85.31369781,174,IN-BR,,0,VEMZ,MZU,,n/a,#N/A,y,,,,250
+26435,VABI,medium_airport,Bilaspur Airport,21.98839951,82.11100006,899,IN-CT,,0,VABI,PAB,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Bilaspur_Airport,,250
+26441,VADN,medium_airport,Daman Airport,20.43440056,72.84320068,33,IN-DD,,0,VADN,NMB,,1950,1950,n,,http://en.wikipedia.org/wiki/Daman_Airport,,250
+26552,VIDD,medium_airport,Safdarjung Airport,28.58449936,77.20580292,705,IN-DL,,0,VIDD,,,1929,1950,n,,http://en.wikipedia.org/wiki/Safdarjung_Airport,,250
+26452,VAKS,medium_airport,Keshod Airport,21.31710052,70.270401,167,IN-GJ,,0,VAKS,IXK,,n/a,#N/A,n,,,,250
+26559,VIHR,medium_airport,Hissar Airport,29.17939949,75.75530243,700,IN-HR,,0,VIHR,HSS,,1965,1965,n,,,,250
+26575,VISA,medium_airport,Sirsa Air Force Station,29.56060028,75.00610352,650,IN-HR,,0,VISA,,,n/a,#N/A,n,,,,250
+26581,VIUX,medium_airport,Udhampur Air Force Station,32.90219879,75.15619659,2066,IN-JK,,0,VIUX,,,n/a,#N/A,n,,,,250
+26432,VAAK,medium_airport,Akola Airport,20.6989994,77.05860138,999,IN-MM,,0,VAAK,AKD,,1943,1950,n,,,,250
+26457,VARG,medium_airport,Ratnagiri Airport,17.0135994,73.32779694,305,IN-MM,,0,VARG,RTC,,1973,1975,n,,,,250
+26443,VAGN,small_airport,Guna Airport,24.654699,77.347298,1600,IN-MP,,0,VAGN,GUX,,n/a,#N/A,y,,,,250
+26568,VILD,medium_airport,Ludhiana Airport,30.85470009,75.95259857,834,IN-PB,,0,VILD,LUH,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Sahnewal_Airport,,250
+26564,VIJR,medium_airport,Jaisalmer Airport,26.88870049,70.86499786,751,IN-RJ,,0,VIJR,JSA,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Jaisalmer_Airport,Jaisalmer Air Force Station,250
+26508,VEKR,medium_airport,Kailashahar Airport,24.30820084,92.00720215,79,IN-TR,,0,VEKR,IXH,,n/a,#N/A,y,,http://en.wikipedia.org/wiki/Kailashahar_Airport,,250
+26516,VEPH,medium_airport,Panagarh Air Force Station,23.47430038,87.42749786,240,IN-WB,,0,VEPH,,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Panagarh_Airport,,250
+26549,VIBY,medium_airport,Bareilly Air Force Station,28.42210007,79.45079803,580,IN-UP,Bareilly,0,VIBY,BEK,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Trishul_Air-base,Trishul Air Base,250
+26543,VIBK,medium_airport,Nal Airport,28.07060051,73.2071991,750,IN-RJ,Bikaner,0,VIBK,BKB,,n/a,#N/A,n,,,Nal Air Force Station,250
+26500,VEGK,medium_airport,Gorakhpur Airport,26.73970032,83.4496994,259,IN-UP,Gorakhpur,1,VEGK,GOP,,n/a,#N/A,n,http://www.aai.aero/allAirports/gorakhpur.jsp,http://en.wikipedia.org/wiki/Gorakhpur_Airport,Gorakhpur Air Force Station,250
+3312,VE44,medium_airport,Hashimara Air Force Station,26.69829941,89.36910248,340,IN-WB,Jalpaiguri,0,VE44,,VE44,n/a,#N/A,n,,,,250
+26449,VAKE,medium_airport,Kandla Airport,23.11269951,70.10030365,96,IN-GJ,Kandla,0,VAKE,IXY,,1950,1950,n,http://aai.aero/allAirports/kandla_generalinfo.jsp,http://en.wikipedia.org/wiki/Kandla_Airport,,250
+26573,VIPT,medium_airport,Pantnagar Airport,29.03339958,79.47370148,769,IN-UP,Pantnagar,0,VIPT,PGH,,n/a,#N/A,n,,,Panthnagar,250
+26624,VOSM,medium_airport,Salem Airport,11.7833004,78.06559753,1008,IN-TN,Salem,0,VOSM,SXV,,1993,1995,n,,https://en.wikipedia.org/wiki/Salem_Airport_(India),,250
+3343,VO94,small_airport,Campbell Bay Airport,7.013040066,93.92279816,16,IN-AN,,0,VO94,,VO94,n/a,#N/A,n,,,,50
+3317,VE67,small_airport,Machuka Advanced Landing Ground,28.60245801,94.12613869,7900,IN-AR,,0,VE67,,VE67,n/a,#N/A,n,,,,50
+3320,VE91,small_airport,Vijaynagar Advanced Landing Ground,27.1935997,97.00370026,4167,IN-AR,,0,VE91,,VE91,n/a,#N/A,n,,,,50
+3308,VE24,small_airport,Sookerating Airport,27.55290031,95.57060242,400,IN-AS,,0,VE24,,VE24,n/a,#N/A,n,,,,50
+30356,VERU,small_airport,Rupsi India Airport,26.13969994,89.91000366,131,IN-AS,,0,VERU,RUP,,n/a,#N/A,n,,,,50
+3311,VE41,small_airport,Giridih Airport,24.20190048,86.28980255,1000,IN-BR,,0,VE41,,VE41,n/a,#N/A,n,,,,50
+3315,VE54,small_airport,Daltonganj Airport,24.01930046,84.0951004,803,IN-BR,,0,VE54,,VE54,n/a,#N/A,n,,,,50
+26518,VEPU,small_airport,Purnea Airport,25.75959969,87.41000366,129,IN-BR,,0,VEPU,,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Purnea_Airport,,50
+30325,VERL,small_airport,Raxaul Airport,26.9666996,84.83329773,259,IN-BR,,0,VERL,,,n/a,#N/A,n,,,,50
+26442,VADS,small_airport,Deesa Airport,24.26790047,72.20439911,485,IN-GJ,,0,VADS,,,n/a,#N/A,n,,,,50
+3322,VI20,small_airport,Bhilwara Airport,28.07710075,76.20500183,955,IN-HR,,0,VI20,,VI20,n/a,#N/A,n,,,,50
+3323,VI40,small_airport,Karnal Airport,29.71409988,77.03749847,829,IN-HR,,0,VI40,,VI40,n/a,#N/A,n,,,,50
+3331,VI71,small_airport,Kalka Airport,30.8245697,76.88365173,1700,IN-HR,,0,VI71,,VI71,n/a,#N/A,n,,,,50
+29775,VECK,small_airport,Chakulia Airport,22.4605999,86.70780182,430,IN-JH,,0,VECK,,,n/a,#N/A,y,,,,50
+3325,VI57,small_airport,Thoise Airport,34.65259933,77.37580109,10046,IN-JK,,0,VI57,,VI57,n/a,#N/A,n,,,,50
+3327,VI65,small_airport,Kargil Airport,34.52429962,76.15589905,9604,IN-JK,,0,VI65,,VI65,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Kargil_Airport,,50
+3328,VI66,small_airport,Fukche Advanced Landing Ground,32.93740082,79.21320343,13700,IN-JK,,0,VI66,,VI66,n/a,#N/A,n,,,,50
+26541,VIAW,small_airport,Awantipur Air Force Station,33.87659836,74.97570038,5393,IN-JK,,0,VIAW,,,n/a,#N/A,n,,,,50
+42716,IN-0003,small_airport,Daulat Beg Oldi Advanced Landing Ground,35.39646671,77.92896509,16200,IN-JK,,0,,,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Daulat_Beg_Oldi_Advanced_Landing_Ground,,50
+3283,VA1B,small_airport,Chanda Airport,19.99469948,79.22250366,625,IN-MM,,0,VA1B,,VA1B,n/a,#N/A,n,,,,50
+3293,VA1M,small_airport,Karad Airport,17.28590012,74.15809631,1890,IN-MM,,0,VA1M,,VA1M,n/a,#N/A,n,,,,50
+3303,IN-VA47,small_airport,Jalgaon Airport,20.96220016,75.62670135,800,IN-MM,,0,VA47,,VA47,n/a,#N/A,n,,,,50
+3305,IN-VA53,small_airport,Dhulia Airport,20.92650032,74.73709869,920,IN-MM,,0,VA53,,VA53,n/a,#N/A,n,,,,50
+3284,VA1C,small_airport,Birlagram Airport,23.44689941,75.42030334,1541,IN-MP,,0,VA1C,,VA1C,n/a,#N/A,n,,,,50
+3287,VA1F,small_airport,Sidhi Airport,24.40229988,81.81479645,1093,IN-MP,,0,VA1F,,VA1F,n/a,#N/A,n,,,,50
+3290,VA1J,small_airport,Dhana Airport,23.75359917,78.85579681,1706,IN-MP,,0,VA1J,,VA1J,n/a,#N/A,n,,,,50
+3292,VA1L,small_airport,Amla Airport,21.92639923,78.11360168,2435,IN-MP,,0,VA1L,,VA1L,n/a,#N/A,n,,,,50
+3294,VA1N,small_airport,Nimach Airport,24.43079948,74.86779785,1617,IN-MP,,0,VA1N,,VA1N,n/a,#N/A,n,,,,50
+3295,VA1O,small_airport,Burhar Airport,23.23520088,81.50370026,1500,IN-MP,,0,VA1O,,VA1O,n/a,#N/A,n,,,,50
+3300,VA2D,small_airport,Ratlam Airport,23.38139915,75.02559662,1702,IN-MP,,0,VA2D,,VA2D,n/a,#N/A,n,,,,50
+3321,VE96,small_airport,Thuniabhand Airport,22.00160027,78.91719818,2182,IN-MP,,0,VE96,,VE96,n/a,#N/A,n,,,,50
+3334,VI76,small_airport,Band Tal Airport,26.00009918,78.26180267,790,IN-MP,,0,VI76,,VI76,n/a,#N/A,n,,,,50
+3316,VE62,small_airport,Cuttack Airport,20.5496006,85.88629913,115,IN-OR,,0,VE62,,VE62,n/a,#N/A,n,,,,50
+26505,VEJH,small_airport,Jharsuguda Airport,21.91349983,84.05039978,751,IN-OR,,0,VEJH,,,n/a,#N/A,n,,,,50
+26522,VEUK,small_airport,Utkela Airport,20.09740067,83.18379974,680,IN-OR,,0,VEUK,,,n/a,#N/A,n,,,,50
+3336,VI88,small_airport,Jallowal Airport,31.55999947,75.34130096,741,IN-PB,,0,VI88,,VI88,n/a,#N/A,n,,,,50
+26542,VIAX,small_airport,Adampur Air Force Station,31.43379974,75.75879669,775,IN-PB,,0,VIAX,,,n/a,#N/A,n,,,,50
+26560,VIHX,small_airport,Halwara Air Force Station,30.74850082,75.62979889,790,IN-PB,,0,VIHX,,,1950,1950,n,,http://en.wikipedia.org/wiki/Halwara_Air_Force_Base,,50
+3289,VA1H,small_airport,Ondwa Airport,25.14150047,74.6115036,1450,IN-RJ,,0,VA1H,,VA1H,n/a,#N/A,n,,,,50
+3297,VA2A,small_airport,Phalodi Airport,27.11289978,72.38899994,781,IN-RJ,,0,VA2A,,VA2A,n/a,#N/A,n,,,,50
+3302,IN-VA38,small_airport,Sirohi Airport,24.89509964,72.84590149,1000,IN-RJ,,0,VA38,,VA38,n/a,#N/A,n,,,,50
+3304,IN-VA51,small_airport,Banswara Airport,23.5897007,74.31269836,700,IN-RJ,,0,VA51,,VA51,n/a,#N/A,n,,,,50
+3306,IN-VA74,small_airport,Abu Road Airport,24.49419975,72.78150177,875,IN-RJ,,0,VA74,,VA74,n/a,#N/A,n,,,,50
+3324,VI43,small_airport,Suratgarh New Airport,29.38780022,73.90390015,554,IN-RJ,,0,VI43,,VI43,n/a,#N/A,n,,,Phalodi Air Force Station,50
+3329,VI69,small_airport,Jhunjhunu Airport,28.1067009,75.37560272,1110,IN-RJ,,0,VI69,,VI69,n/a,#N/A,n,,,,50
+3330,VI70,small_airport,Pilani New Airport,28.34880066,75.59369659,1100,IN-RJ,,0,VI70,,VI70,n/a,#N/A,n,,,,50
+3332,VI73,small_airport,Nagaur Airport,27.20829964,73.71140289,950,IN-RJ,,0,VI73,,VI73,n/a,#N/A,n,,,,50
+3338,VO26,small_airport,Kovilpatti Airport,9.153889656,77.82119751,325,IN-TN,,0,VO26,,VO26,n/a,#N/A,n,,,,50
+3344,VO95,small_airport,Hosur Airport,12.66129971,77.76719666,3116,IN-TN,,0,VO95,,VO95,n/a,#N/A,n,,,,50
+26601,VOAR,small_airport,Arkonam Airport,13.07120037,79.69120026,265,IN-TN,,0,VOAR,,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Arakkonam_Naval_Air_Station,Arakkonam Naval Air Base,50
+30005,VEKM,small_airport,Kamalpur Airport,24.13170052,91.81420135,131,IN-TR,,0,VEKM,IXQ,,n/a,#N/A,n,,,,50
+3285,VA1D,small_airport,Muirpur Airport,24.12520027,83.04060364,1122,IN-UP,,0,VA1D,,VA1D,n/a,#N/A,n,,,,50
+3298,VA2B,small_airport,Meerut Sw Airport,28.9048996,77.6772995,732,IN-UP,,0,VA2B,,VA2B,n/a,#N/A,n,,,,50
+3333,VI75,small_airport,Kalyanpur Airport,26.52039909,80.23290253,400,IN-UP,,0,VI75,,VI75,n/a,#N/A,n,,,,50
+3335,VI82,small_airport,Bharkot Airport,30.58289909,78.3234024,2983,IN-UP,,0,VI82,,VI82,n/a,#N/A,n,,,,50
+3337,VI90,small_airport,Akbarpur Airport,26.44759941,82.56819916,288,IN-UP,,0,VI90,,VI90,n/a,#N/A,n,,,,50
+26553,VIDF,small_airport,Pithorgarh Airport,29.59359932,80.23919678,4910,IN-UP,,0,VIDF,,,n/a,#N/A,n,,,,50
+26556,VIDX,small_airport,Hindon Air Force Station,28.70770073,77.35890198,700,IN-UP,,0,VIDX,,,n/a,#N/A,n,,,,50
+26561,VIJN,small_airport,Jhansi Airport,25.49119949,78.55840302,801,IN-UP,,0,VIJN,,,n/a,#N/A,n,,,,50
+26577,VISP,small_airport,Sarsawa Air Force Station,29.9939003,77.4253006,891,IN-UP,,0,VISP,,,n/a,#N/A,n,,,Sarsawan,50
+3307,VE23,small_airport,Burnpur Airport,23.63150024,86.97550201,310,IN-WB,,0,VE23,,VE23,n/a,#N/A,n,,,,50
+26510,VELP,medium_airport,Lengpui Airport,23.84059906,92.61969757,1398,IN-MZ,Aizawl,1,VELP,AJL,,1998,2000,n,http://www.aai.aero/allAirports/lengpui.jsp,http://en.wikipedia.org/wiki/Lengpui_Airport,,50
+32206,VEBG,small_airport,Balurghat Airport,25.26169968,88.79560089,78,IN-WB,Balurghat,0,VEBG,RGH,,n/a,#N/A,y,,,,50
+3309,VEPI,small_airport,Barrackpore Air Force Station,22.78100014,88.35919952,18,IN-WB,Barrackpore,0,VEPI,,VE31,n/a,#N/A,n,,,,50
+29689,VEBA,small_airport,Behala Airport,22.5042305,88.29342651,10,IN-WB,Behala,0,VEBA,,,n/a,#N/A,n,,,Parnasree,50
+26630,VOTX,small_airport,Tambaram Air Force Station,12.90719986,80.12190247,90,IN-TN,Chennai,0,VOTX,,,n/a,#N/A,n,,,,50
+26495,VECA,small_airport,Chabua Air Force Station,27.46220016,95.11769867,367,IN-AS,Dibrugarh,0,VECA,,,1939,1950,n,,http://en.wikipedia.org/wiki/Chabua_Air_Force_Base,,50
+32589,VODK,closed,Dunakonda Airport,15.8063,79.4882,472,IN-AP,Dunakonda,0,VODK,,,n/a,#N/A,y,,http://en.wikipedia.org/wiki/Donakonda_Airport,,50
+31698,IN-JGB,small_airport,Jagdalpur Airport,19.07430077,82.03679657,1822,IN-CT,Jagdalpur,0,,JGB,,n/a,#N/A,n,,,,50
+32183,VEJP,small_airport,Jeypore Airport,18.87999916,82.55200195,1952,IN-OR,Jeypore,0,VEJP,PYB,,n/a,#N/A,n,,,"Jeypur, Jaypur",50
+31691,VEKW,small_airport,Khowai Airport,24.06189919,91.60389709,95,IN-TR,Khowai,0,VEKW,IXN,,n/a,#N/A,y,,,,50
+32576,VILP,small_airport,Lalitpur Airport,24.71699905,78.41699982,1204,IN-UP,Lalitpur,0,VILP,,,n/a,#N/A,n,,,,50
+3341,VO55,medium_airport,Murod Kond Airport,18.41150093,76.46469879,2136,IN-MM,Latur,1,VALT,LTU,VO55,1991,1995,y,,http://en.wikipedia.org/wiki/Latur_Airport,,50
+26544,VIBL,small_airport,Bakshi Ka Talab Air Force Station,26.98830032,80.89309692,385,IN-UP,Lucknow,0,VIBL,,,n/a,#N/A,n,,,,50
+31799,VEMH,small_airport,Malda Airport,25.03300095,88.13300323,79,IN-WB,Malda,0,VEMH,LDA,,n/a,#N/A,y,,,English Bazar,50
+31996,VOMY,small_airport,Mysore Airport,12.30720043,76.64969635,2349,IN-KA,Mysore,0,VOMY,MYQ,,n/a,#N/A,n,,,Mysuru,50
+30180,VAND,medium_airport,Nanded Airport,19.18330002,77.3167038,1250,IN-MM,Nanded,1,VAND,NDC,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Nanded_Airport,,50
+26515,VENP,small_airport,Nawapara Airport,20.87000084,82.51959991,1058,IN-CT,Nawapara,0,VENP,,,n/a,#N/A,n,,,,50
+42723,IN-NVY,small_airport,Neyveli Airport,11.61295605,79.5273819,184,IN-TN,Neyveli,0,VONV,NVY,,n/a,#N/A,n,,,,50
+31692,VEPG,small_airport,Pasighat Airport,28.06609917,95.33560181,477,IN-AR,Pasighat,0,VEPG,IXT,,1962,1965,n,,http://en.wikipedia.org/wiki/Pasighat_Airport,,50
+32215,IN-RJI,small_airport,Rajouri Airport,33.37789917,74.31520081,3000,IN-JK,Rajouri,0,,RJI,,n/a,#N/A,n,,,Rajauri,50
+32591,VORM,small_airport,Ramnad Naval Air Station,9.325090408,78.97149658,16,IN-TN,Ramnad,0,VORM,,,n/a,#N/A,n,,,Ramanathapuram,50
+26503,VEHK,small_airport,Hirakud Airport,21.5802002,84.00569916,658,IN-OR,Sambalpur,0,VEHK,,,n/a,#N/A,n,,,,50
+26460,VASL,medium_airport,Solapur Airport,17.62800026,75.93479919,1584,IN-MM,Solapur,0,VASL,SSE,,1948,1950,n,,http://en.wikipedia.org/wiki/Solapur_Airport,Sholapur,50
+32433,IN-TEI,small_airport,Tezu Airport,27.94120026,96.13439941,800,IN-AR,Tezu,0,VETJ,TEI,,2018,2018,n,,http://en.wikipedia.org/wiki/Tezu_Airport,Teju New Airport,50
+26626,VOTJ,small_airport,Tanjore Air Force Base,10.72239971,79.10160065,253,IN-TN,Thanjavur,0,VOTJ,TJV,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Tanjore_Air_Force_Base,Tanjavur,50
+3342,VO80,small_airport,Tuticorin Airport,8.724241,78.025803,129,IN-TN,Thoothukudi,1,VOTK,TCR,,n/a,#N/A,n,,https://en.wikipedia.org/wiki/Tuticorin_Airport,"VO80, Tuticorin Southwest Airport",50
+3318,VE85,small_airport,Bentayan Airport,23.0951004,75.88529968,1666,IN-MP,Ujjain,0,,,,n/a,#N/A,y,,,VE85,50
+32592,VOVR,small_airport,Vellore Airport,12.90880013,79.06680298,764,IN-TN,Vellore,0,VOVR,,,n/a,#N/A,n,,,,50
+32647,VOWA,small_airport,Warangal Airport,17.9144001,79.60220337,935,IN-TG,Warrangal,0,VOWA,WGC,,1930,1950,y,http://aai.aero/allAirports/warrangal.jsp,http://en.wikipedia.org/wiki/Warangal_Airport,Warrangal,50
+35130,IN-0002,heliport,Tawang Air Force Station,27.58846092,91.87769318,8756,IN-AR,,0,,,,n/a,#N/A,n,,,,25
+35129,IN-0001,heliport,Siachen Glacier AFS Airport,35.5,77,22000,IN-JK,,0,,,,n/a,#N/A,n,,,,25
+26497,VECO,small_airport,Cooch Behar Airport,26.33049965,89.46720123,138,IN-WB,,0,VECO,COH,,n/a,#N/A,y,,,,1
+42731,IN-0010,small_airport,Walong Advanced Landing Ground,28.129673,97.01966095,,IN-AR,,0,,,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Walong,,0
+301058,IN-0075,heliport,Itanagar (Naharlagun),27.111675,93.69610556,,IN-AR,,0,,,,n/a,#N/A,n,,,,0
+301059,IN-0076,heliport,Itanagar (Naharlagun),27.111675,93.69610556,466,IN-AR,,0,,,,n/a,#N/A,n,,,,0
+46282,IN-0016,closed,Ledo Airfield,27.3025,95.737222,,IN-AS,,0,,,,n/a,#N/A,y,,http://en.wikipedia.org/wiki/Ledo_Airfield,,0
+46285,IN-0019,closed,Dinjan Airfield,27.538017,95.269447,,IN-AS,,0,,,,1942,1950,y,,http://en.wikipedia.org/wiki/Dinjan_Airfield,,0
+300448,IN-0066,small_airport,Madhubani Airport,26.32916667,86.06,,IN-BR,,0,,,,n/a,#N/A,n,,,,0
+300449,IN-0067,small_airport,Madhubani Airport,26.32916667,86.06,,IN-BR,,0,,,,n/a,#N/A,n,,,,0
+311047,IN-0091,small_airport,saharsa airstrip,25.89194444,86.5825,,IN-BR,,0,,,,n/a,#N/A,n,,,,0
+301046,IN-0072,small_airport,Raigarh Airport (JSPL),21.93528056,83.35021389,,IN-CT,,0,,,,n/a,#N/A,n,,,,0
+306912,IN-0081,heliport,Annandale Helipad,31.11138889,77.15694444,6120,IN-HP,,0,,,,n/a,#N/A,n,,,,0
+306913,IN-0082,heliport,Ajog Helipad,32.92194444,76.458,7460,IN-HP,,0,,,,n/a,#N/A,n,,,,0
+309944,IN-0089,small_airport,Noamundi Airport,22.19222222,85.54888889,,IN-JH,,0,,,,n/a,#N/A,n,,,,0
+42717,IN-0004,heliport,Leh Helipad,34.12866974,77.53653717,10682,IN-JK,,0,,,,n/a,#N/A,n,,,,0
+301040,IN-0070,small_airport,Vijayanagar Aerodrome (JSW),15.17496667,76.63494722,1670,IN-KA,,0,VOJV,VDY,,2004,2005,n,,http://en.wikipedia.org/wiki/Vidyanagar_Airport,,0
+301043,IN-0071,small_airport,Baldota Koppal Aerodrome,15.36009444,76.22005278,,IN-KA,,0,,,,n/a,#N/A,n,,,,0
+315328,IN-0095,heliport,Perunad Helipad,9.3539,76.86489,,IN-KL,,1,,,,n/a,#N/A,n,,https://en.wikipedia.org/wiki/Perunad#Heliport,"Perunad Heliport, Sabarimala Helipad, Kerala helipad,",0
+42729,IN-0008,heliport,Kavaratti Helipad,10.54166794,72.61604309,,IN-LD,,0,,,,n/a,#N/A,n,,,,0
+44582,IN-0015,small_airport,Baljek Airport,25.66148758,90.34503937,,IN-ML,,1,,,,n/a,#N/A,n,,,,0
+44475,IN-0014,closed,Koirengei Airstrip,24.87245941,93.92568207,,IN-MN,,0,,,,n/a,#N/A,y,,,,0
+46623,IN-0060,small_airport,Khargon Govt. Airstrip,21.81003019,75.55443764,,IN-MP,,0,,,,n/a,#N/A,n,,,"Khargon, Khargone, Khargoan",0
+309587,IN-0086,small_airport,CHINDWARA AIRFIELD,22,78.93,,IN-MP,,0,,,,n/a,#N/A,n,,,,0
+46550,IN-0027,heliport,Thuampui Helipad,23.74586667,92.73673333,3214,IN-MZ,,0,,,,n/a,#N/A,n,,,Zemabawk Helipad,0
+46551,IN-0028,heliport,Pukpui Helipad,22.94226667,92.76885,,IN-MZ,,0,,,,n/a,#N/A,n,,,"Lunglei,helipad",0
+46552,IN-0029,heliport,Lunglei Helipad,22.86838333,92.7633,,IN-MZ,,0,,,,n/a,#N/A,n,,,,0
+46554,IN-0031,heliport,Vairengte Helipad,24.47891667,92.75393333,,IN-MZ,,0,,,,n/a,#N/A,n,,,,0
+301049,IN-0073,small_airport,Angul Airport (JSPL),20.91195,85.03258333,,IN-OR,,0,,,,n/a,#N/A,n,,,,0
+311049,IN-0092,small_airport,Jajpur ( Sukinda ) Airstrip,21.03194444,85.75388889,400,IN-OR,,0,,,R,n/a,#N/A,n,,,,0
+311106,IN-0093,small_airport,Vedanta Lanjigarh Airstrip,19.71944444,83.39361111,,IN-OR,,0,,,,n/a,#N/A,n,,,,0
+312280,IN-0094,closed,no airport,20.46668667,83.48333056,,IN-OR,,0,,,,n/a,#N/A,y,,,,0
+308280,IN-0084,closed,Salwas,26.141647,73.097062,,IN-RJ,,0,,,,n/a,#N/A,y,,,,0
+308281,IN-0085,small_airport,Airport,26.436257,73.102823,,IN-RJ,,0,,,,n/a,#N/A,n,,,,0
+42730,IN-0009,heliport,Gangtok Helipad,27.35569763,88.61410522,,IN-SK,,0,,,,n/a,#N/A,n,,,,0
+44362,IN-0012,small_airport,Pakyong Airport (Under Construction),27.2313,88.587196,4590,IN-SK,,0,,,,2018,2018,n,,https://en.wikipedia.org/wiki/Pakyong_Airport,,0
+42721,IN-0005,closed,Kayathar Airstrip,8.971388817,77.82062531,,IN-TN,,0,,,,n/a,#N/A,y,,,,0
+42722,IN-0006,closed,Chettinad Airstrip,10.16499615,78.79376984,,IN-TN,,0,,,,n/a,#N/A,y,,,,0
+46287,IN-0020,closed,Ulundurpet Airstrip,11.68854875,79.32137489,,IN-TN,,0,,,,n/a,#N/A,y,,,,0
+46628,IN-0063,closed,Cholavaram Airstrip,13.21024193,80.1523447,,IN-TN,,0,,,,n/a,#N/A,y,,,,0
+300715,IN-0069,small_airport,Sultanpur,26.2475,82.0425,,IN-UP,,1,,,,n/a,#N/A,n,,,,0
+46283,IN-0017,closed,Dudhkundi Airfield,22.32459157,87.10741997,,IN-WB,,0,,,,1942,1950,y,,http://en.wikipedia.org/wiki/Dudhkundi_Airfield,,0
+46284,IN-0018,closed,Piardoba Airfield,22.98950855,87.29959488,,IN-WB,,0,,,,1943,1950,y,,http://en.wikipedia.org/wiki/Piardoba_Airfield,,0
+302122,IN-0078,closed,Bishnupur Airfield,23.03392669,87.35486984,,IN-WB,,0,,,,n/a,#N/A,y,,,,0
+302134,IN-0079,closed,Guskhara Airfield,23.471667,87.794167,,IN-WB,,0,,,,n/a,#N/A,y,,http://en.wikipedia.org/wiki/Guskhara_Airfield,,0
+302135,IN-0080,closed,Pandaveswar Airfield,23.64130052,87.34869003,,IN-WB,,0,,,,n/a,#N/A,y,,http://en.wikipedia.org/wiki/Pandaveswar_Airfield,,0
+46556,IN-0033,small_airport,Aamby Valley Airport,18.60961667,73.37758333,2262,IN-MM,Aamby Valley City,0,,,,n/a,#N/A,n,,,,0
+317900,IN-0096,small_airport,Akli Airport,25.8077,70.2943,230,IN-RJ,Akli,0,,,,n/a,#N/A,n,,,,0
+298454,VIAH,small_airport,Dhanipur Airstrip,27.86085631,78.14686775,,IN-UP,Aligarth,0,VIAH,,,n/a,#N/A,n,,,,0
+299082,IN-0065,small_airport,Amravati (Belora) Airstrip,20.81334851,77.71790743,1125,IN-MM,Amravati,0,,,,1992,1995,n,,http://en.wikipedia.org/wiki/Amravati_Airport,,0
+43966,IN-0011,medium_airport,Jakkur Aerodrome,13.07674,77.597645,3013,IN-KA,Bengaluru,0,VOJK,,,1948,1950,n,,https://en.wikipedia.org/wiki/Jakkur_Aerodrome,,0
+306915,IN-0083,heliport,Bilaspur Helipad,31.34513889,76.75675,1685,IN-HP,Bilaspur,0,,,,n/a,#N/A,n,,,,0
+46574,IN-0051,heliport,"Aviation Research Centre, RAW Headquarter Helipad",30.70645,77.8615,,IN-UP,Chakrata,0,,,,n/a,#N/A,n,,,,0
+44474,VEDZ,small_airport,Daporijo Airport,27.98550034,94.22280121,750,IN-AR,Daporijo,0,VEDZ,DEP,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Daporijo_Airport,"Deparijo, Daparizo, Deparizo, DAE",0
+46610,IN-0058,closed,Dhubulia Airstrip,23.49298469,88.45401764,,IN-WB,Dhubulia,0,,,,n/a,#N/A,y,,,Dhubalia,0
+46611,IN-0059,closed,Digri Airstrip,22.78544033,87.36225128,,IN-WB,Digri,0,,,,n/a,#N/A,y,,,,0
+317984,IN-0100,small_airport,Sido Kanhu Airport,24.231185,87.269989,470,IN-JH,Dumka,0,,,,n/a,#N/A,n,,,Anasol,0
+317982,VEDG,medium_airport,Kazi Nazrul Islam Airport,23.6225,87.243,300,IN-WB,Durgapur,1,VEDG,RDP,,2015,2015,n,,https://en.wikipedia.org/wiki/Kazi_Nazrul_Islam_Airport,"Andal Airport, Durgapur Airport",0
+317983,IN-0099,small_airport,Durgapur Steel Plant Airport,23.58331,87.339787,290,IN-WB,Durgapur,0,,,,n/a,#N/A,n,,,,0
+46512,IN-0025,small_airport,Faizabad Airport,26.7511282,82.1543651,350,IN-UP,Faizabad,1,,,,n/a,#N/A,n,,,,0
+46566,IN-0043,heliport,STC BSF Indian Army Helipad,24.3267,93.67546667,,IN-MN,Gangpimual,0,,,,n/a,#N/A,n,,,,0
+46567,IN-0044,heliport,PAP Complex Heliport,31.29208333,75.6072,766,IN-PB,Jalandhar,0,,,,n/a,#N/A,n,,,,0
+46608,IN-0056,closed,Kalyan airstrip,19.17921973,73.13918352,,IN-MM,Kalyan,0,,,,n/a,#N/A,y,,http://en.wikipedia.org/wiki/Kalyan_International_Airport,,0
+46607,IN-0055,closed,Kanchrapara Airfield,22.92293299,88.45992923,,IN-WB,Kanchrapara,0,,,,n/a,#N/A,y,,http://en.wikipedia.org/wiki/Kanchrapara_Airfield,Calcutta,0
+46568,IN-0045,heliport,Catholic Medical Centre Helipad,24.8062,93.94275,,IN-MN,Kangla,0,,,,n/a,#N/A,n,,,,0
+46624,IN-0061,small_airport,Khandwa Airport,21.85711746,76.33695602,,IN-MP,Khandwa,0,,,,n/a,#N/A,n,,,,0
+46572,IN-0049,heliport,Kohima Helipad,25.66306667,94.11393333,,IN-NL,Kohima,0,,,,n/a,#N/A,n,,,,0
+46562,IN-0039,heliport,Lebong Helipad,27.05908333,88.27773333,,IN-WB,Lebong,0,,,,n/a,#N/A,n,,,,0
+317981,IN-0098,heliport,Maithon Heliport,23.785,86.7935,529,IN-JH,Maithon,0,,,,n/a,#N/A,n,,,Gogna Colony,0
+46575,IN-0052,heliport,Mathura Heliport,27.46423333,77.68241667,,IN-UP,Mathura,0,,,,n/a,#N/A,n,,,,0
+46377,IN-0022,heliport,Kunjali Helipad,18.89527337,72.80849397,,IN-MM,Mimbai,0,,,,n/a,#N/A,n,,,,0
+42724,IN-0007,heliport,Minicoy Helipad,8.273630142,73.02230072,,IN-LD,Minicoy Island,0,,,,n/a,#N/A,n,,,Maliku,0
+46376,IN-0021,heliport,Shikra Naval Helibase,18.91334568,72.82921135,,IN-MM,Mumbai,0,,,,n/a,#N/A,n,,,,0
+46569,IN-0046,heliport,Butcher Island Helipad,18.9623,72.90308333,,IN-MM,Mumbai,0,,,,n/a,#N/A,n,,,,0
+46570,IN-0047,heliport,Mahalaxmi Race Course Helipad,18.98203333,72.82156667,,IN-MM,Mumbai,0,,,,n/a,#N/A,n,,,Bombay,0
+46571,IN-0048,heliport,Raj Bhavan Helipad,18.94265,72.79401667,,IN-MM,Mumbai,0,,,,n/a,#N/A,n,,,,0
+46564,IN-0041,heliport,HQ Eastern Air Command Helipad,25.53818333,91.82655,,IN-ML,Myliem,0,,,,n/a,#N/A,n,,,,0
+46560,IN-0037,heliport,Namchi Helipad,27.15673333,88.32206667,,IN-SK,Nayabazar,0,,,,n/a,#N/A,n,,,,0
+314033,OMN,small_airport,Osmanabad Airport,18.281,76.0574,2277,IN-MM,Osmanabad,0,,OMN,,1984,1985,n,,http://en.wikipedia.org/wiki/Osmanabad_Airport,,0
+46563,IN-0040,heliport,Pedong Helipad,27.15593333,88.61065,,IN-SK,Pedong,0,,,,n/a,#N/A,n,,,,0
+46559,IN-0036,heliport,Pelling Helipad,27.3005,88.23085,,IN-SK,Pelling City,0,,,,n/a,#N/A,n,,,,0
+46573,IN-0050,heliport,Phalodi Airfield,27.11283333,72.389,,IN-RJ,Phalodi,0,,,,n/a,#N/A,n,,,,0
+311989,IN-0088,small_airport,Poonch Airport,33.76875,74.083753,3219,IN-JK,Poonch,0,,,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Poonch_Airport,Punch,0
+325010,IN-0102,small_airport,Pune,0,0,,IN-MM,Pune,1,,,,n/a,#N/A,n,,,,0
+46606,IN-0054,closed,Charra Airfield,23.36577729,86.43673897,,IN-WB,Purulia,0,,,,n/a,#N/A,y,,http://en.wikipedia.org/wiki/Charra_Airfield,,0
+313998,RMD,small_airport,Basanth Nagar Airport,18.701,79.3923,670,IN-TG,Ramagundam,0,VORG,RMD,,n/a,#N/A,n,,http://en.wikipedia.org/wiki/Ramagundam_Airport,,0
+317980,IN-0097,small_airport,Surichua Air Base,24.18824,87.701722,280,IN-WB,Rampurhat,0,,,,n/a,#N/A,n,,,Rampur Hat,0
+46609,IN-0057,closed,Rasgovindpur Airstrip,21.80508952,87.04690933,,IN-OR,Rasgovindpur,0,,,,n/a,#N/A,y,,,,0
+46515,IN-0026,small_airport,Korba Airport,22.41416667,82.71944444,1200,IN-CT,Rumgara,0,,,,n/a,#N/A,n,,,,0
+46555,IN-0032,heliport,Saiha Helipad,22.48858333,92.98695,,IN-MZ,Saiha,1,,,,n/a,#N/A,n,,,,0
+46558,IN-0035,heliport,Sevoke Road Indian Army Heliport,26.7744,88.45231667,472,IN-WB,Salugara,0,,,,n/a,#N/A,n,,,,0
+46553,IN-0030,heliport,Serchhip Helipad,23.32875,92.85606667,,IN-MZ,Serchhip,0,,,,n/a,#N/A,n,,,,0
+46565,IN-0042,heliport,Shillong Indian Army Helipad,25.54425,91.88171667,,IN-ML,Shillong,0,,,,n/a,#N/A,n,,,,0
+46625,IN-0062,small_airport,Shirpur Airport,21.32399879,74.95673418,,IN-MM,Shirpur,0,,,,n/a,#N/A,n,,,"Shirpur, Dhule",0
+46640,IN-0064,small_airport,Umaria Air Field,23.53251391,80.80821991,1510,IN-MP,Umaria,0,,,,n/a,#N/A,n,,,,0
+46561,IN-0038,heliport,Upper Tadong Indian Army Helipad,27.30671667,88.59965,,IN-SK,Upper Tadong,0,,,,n/a,#N/A,n,,,,0
+319166,IN-0101,small_airport,Vanasthali Airport,26.407627,75.870128,,IN-RJ,Vanasthali,0,,,,n/a,#N/A,n,,,,0
+46557,IN-0034,small_airport,Vijay Nagar Airport,19.8841,73.84056667,,IN-MM,Vijay Nagar,0,,,,n/a,#N/A,n,,,,0
